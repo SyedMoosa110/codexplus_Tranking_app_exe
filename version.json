@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-11-06",
+  "downloadUrl": "https://raw.githubusercontent.com/SyedMoosa110/codexplus_Tranking_app_exe/main/WorkAgent.exe",
+  "portalUrl": "http://192.168.1.191:4000/api/v1/agent/",
+  "notes": "Initial Enterprise Release with 1-Minute Window Title Tracking and Background Auto-Updates."
+}
